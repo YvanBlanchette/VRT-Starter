@@ -6,8 +6,11 @@ Ceci est un Starter Template pour mes projets utilisant Vite JS, React JS et Tai
 
 Pour démarrer un nouveau projet, vous pouvez utiliser les commandes suivantes pour cloner et installer le starter.
 ``` git clone https://github.com/YvanBlanchette/VRT-Starter.git ```
+
 ``` cd vrt-starter ```
+
 ``` npm install ```
+
 ``` npm run dev ```
 
 Et vous êtes prêts à partir!
