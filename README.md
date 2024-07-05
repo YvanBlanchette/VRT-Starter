@@ -2,7 +2,9 @@
 
 ![image](https://github.com/YvanBlanchette/VRT-Starter/assets/133231100/0ef3e3a3-f9b9-4c8f-b808-d1305bc8950d)
 
-Ceci est un Starter Template pour mes projets utilisant Vite JS, React JS et Tailwind CSS. De plus mon template inclu plusieurs librairies intégrées telles que Shadcn UI, Axios, React-Router, React Icons et Framer Motion et plus encore!
+Voilà le Starter Template que j'utilise pour mes projets utilisant Vite JS, React JS et Tailwind CSS. 
+
+De plus mon template inclus plusieurs librairies intégrées telles que Shadcn UI pour les compoments, Axios pour les requêtes http, React-Router, React Icons, Framer Motion et plus encore!
 
 Pour démarrer un nouveau projet, vous pouvez utiliser les commandes suivantes pour cloner et installer le starter.
 
@@ -14,5 +16,5 @@ Pour démarrer un nouveau projet, vous pouvez utiliser les commandes suivantes p
 
 ``` npm run dev ```
 
-Et vous êtes prêts à partir!
+Et voilà, vous êtes prêts à partir! Bon développement !
 
