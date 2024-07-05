@@ -4,7 +4,7 @@
 
 Voilà le Starter Template que j'utilise pour mes projets utilisant Vite JS, React JS et Tailwind CSS. 
 
-De plus mon template inclus plusieurs librairies intégrées telles que Shadcn UI pour les compoments, Axios pour les requêtes http, React-Router, React Icons, Framer Motion et plus encore!
+De plus mon template inclus plusieurs librairies intégrées telles que Shadcn UI comme components library, Axios pour des requêtes http plus facile, React-Router, React-Hook-Form, React Icons, Framer Motion et plus encore!
 
 Pour démarrer un nouveau projet, vous pouvez utiliser les commandes suivantes pour cloner et installer le starter.
 
