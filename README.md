@@ -1,8 +1,14 @@
-# React + Vite
+# VRT Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/YvanBlanchette/VRT-Starter/assets/133231100/0ef3e3a3-f9b9-4c8f-b808-d1305bc8950d)
 
-Currently, two official plugins are available:
+Ceci est un Starter Template pour mes projets utilisant Vite JS, React JS et Tailwind CSS. D eplus mon template inclue plusieurs librairies intégrées telles que Shadcn UI, Axios, React-Router, React Icons et Framer Motion et plus encore!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pour démarrer un nouveau projet, vous pouvez utiliser les commandes suivantes pour cloner et installer le starter.
+``` git clone https://github.com/YvanBlanchette/VRT-Starter.git ```
+``` cd vrt-starter ```
+``` npm install ```
+``` npm run dev ```
+
+Et vous êtes prêts à partir!
+
